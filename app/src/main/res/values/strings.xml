@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">ai-trainer</string>
     <string name="you_ve_got_this">You\'ve Got This !</string>
-    <string name="submit">Submit</string>
+    <string name="login">Login</string>
     <string name="name">Name</string>
+    <string name="your_name">Username</string>
+    <string name="password">Password</string>
 </resources>
