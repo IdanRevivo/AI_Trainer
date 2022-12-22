@@ -15,7 +15,7 @@ public class MainActivity extends AppCompatActivity {
         EditText traineeName = (EditText) findViewById(R.id.userName);
 
         EditText passwordText = (EditText) findViewById(R.id.passwordText);
-
+        // Print to log
         Log.i("Values", traineeName.getText().toString());
         Log.i("value", passwordText.getText().toString());
         String popupMsg = "Hi " + traineeName.getText().toString();
